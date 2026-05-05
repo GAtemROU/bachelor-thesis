@@ -217,7 +217,7 @@ latexmk -pdf main.tex
 
 Tymur Mykhalievskyi  
 Bachelor Thesis, Computer Science (English)   
-Saarland University, August 2025
+Saarland University, May 2025
 
 Advisors:
 
