@@ -1,5 +1,7 @@
 # Understanding Pragmatic Reasoning Through Eye Movement Patterns in Reference Games
 
+See final thesis PDF [main.pdf](tex/thesis/main.pdf) for the full argument, methods, models, and discussion.
+
 This repository contains the experiment, analysis code, trial-generation utilities, and thesis sources for a bachelor thesis on using webcam-based eye tracking to study pragmatic reasoning in reference games.
 
 The project asks whether participants' visual attention patterns reveal how they solve reference games: communicative tasks where a listener must infer which object a speaker intended to refer to from a possibly ambiguous message. The study combines a LingoTurk web experiment, WebGazer-based gaze tracking, participant strategy reports, and statistical analysis of gaze-derived features.
